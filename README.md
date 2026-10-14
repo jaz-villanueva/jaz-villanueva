@@ -1,33 +1,51 @@
-Hi, I'm Jaz! 👋
-I'm a Computer Engineering student at De La Salle University – Manila, interested in digital IC design, computer architecture, embedded systems, robotics, and AI hardware.
+<div align="center">
 
-🔧 Currently Working On
+# Hi, I'm Jaz! 👋
 
-* ASIC Design: Learning SystemVerilog and planning an INT8 systolic-array AI accelerator.
-* LIPAD: Building an autonomous medical delivery drone using Raspberry Pi 5, Pixhawk, and computer vision.
-* Shell Eco-marathon: Developing ESP32 telemetry firmware using Embedded C, FreeRTOS, and CAN.
-* Drone Research & Thesis: Working on Crazyflie tracking with OptiTrack and co-leading a multi-drone control interface.
-* Embedded AI Research: Investigating inference performance, power consumption, and thermal behavior on Raspberry Pi 5.
+Computer Engineering student at **De La Salle University – Manila**
+Digital IC design · Computer architecture · Embedded systems · Robotics · AI hardware
 
-💼 Engineering Experience
+</div>
 
-Software Engineer Intern — Producers Connection Logistics, Inc.
-Led the development and deployment of an AI-assisted fleet management system supporting 225 trucks, 472 field crew, and 64 office users. Handled workflow design, API integration, UI improvements, and testing, using Claude Code for implementation.
+---
 
-💻 Technical Skills
+## 🔧 Currently Working On
 
-* Programming & HDL: C, C++, Python, Verilog, VHDL
-* Embedded & Hardware: ESP32, ESP-IDF, FreeRTOS, CAN, KiCad
-* AI & Robotics: PyTorch, OpenCV, YOLOv8, Crazyflie, OptiTrack
-* Tools: Vivado, Linux, Git, MATLAB, Claude Code
+- **ASIC Design:** Learning SystemVerilog; planning an INT8 systolic-array AI accelerator
+- **LIPAD:** Autonomous medical delivery drone (Raspberry Pi 5, Pixhawk, computer vision)
+- **Shell Eco-marathon:** ESP32 telemetry firmware (Embedded C, FreeRTOS, CAN)
+- **Drone Research & Thesis:** Crazyflie tracking with OptiTrack; co-leading a multi-drone control interface
+- **Embedded AI Research:** Inference performance, power, and thermal behavior on Raspberry Pi 5
 
-🏆 Selected Achievements
+---
 
-* Top 15 Worldwide — Breakthrough Junior Challenge (2022)
-* 1st Runner-Up — ICpEP Robothon (2026)
-* 2nd Prize — Carlos Palanca Memorial Awards (2018)
-* Valedictorian — Operation Brotherhood Montessori Center
+## 💼 Experience
 
-📫 Connect
+**Software Engineer Intern**, Producers Connection Logistics, Inc.
+Led development and deployment of an AI-assisted fleet management system for 225 trucks, 472 field crew, and 64 office users. Handled workflow design, API integration, UI, and testing, using Claude Code.
 
-[LinkedIn](https://www.linkedin.com/in/jazv/) · [Email](mailto:jazvvillanueva@gmail.com)
+---
+
+## 💻 Technical Skills
+
+- **Programming & HDL:** C, C++, Python, Verilog, VHDL
+- **Embedded & Hardware:** ESP32, ESP-IDF, FreeRTOS, CAN, KiCad
+- **AI & Robotics:** PyTorch, OpenCV, YOLOv8, Crazyflie, OptiTrack
+- **Tools:** Vivado, Linux, Git, MATLAB, Claude Code
+
+---
+
+## 🏆 Achievements
+
+- **Top 15 Worldwide**, Breakthrough Junior Challenge (2022)
+- **1st Runner-Up**, ICpEP Robothon (2026)
+- **2nd Prize**, Carlos Palanca Memorial Awards (2018)
+- **Valedictorian**, Operation Brotherhood Montessori Center
+
+---
+
+<div align="center">
+
+📫 [LinkedIn](https://www.linkedin.com/in/jazv/) · [Email](mailto:jazvvillanueva@gmail.com)
+
+</div>
