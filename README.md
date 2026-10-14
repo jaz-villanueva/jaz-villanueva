@@ -21,8 +21,11 @@ Digital IC design · Computer architecture · Embedded systems · Robotics · AI
 
 ## 💼 Experience
 
-**Software Engineer Intern**, Producers Connection Logistics, Inc.
-Led development and deployment of an AI-assisted fleet management system for 225 trucks, 472 field crew, and 64 office users. Handled workflow design, API integration, UI, and testing, using Claude Code.
+**Electrical Team Associate Engineer, Telemetry** · DLSU Eco Car Team, Shell Eco-marathon
+Developing ESP32-based vehicle telemetry firmware in **Embedded C, ESP-IDF, FreeRTOS, and CAN**, covering sensor integration, hardware debugging, and real-time data acquisition.
+
+**Software Engineer Intern, Internal Systems** · Producers Connection Logistics, Inc.
+Led development and deployment of an AI-assisted fleet management system for **225 trucks, 472 field crew, and 64 office users**. Handled workflow design, API integration, UI improvements, and testing, using Claude Code for implementation.
 
 ---
 
